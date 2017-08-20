@@ -1,0 +1,13 @@
+{
+    "require": {
+        "slim/slim": "^3.8",
+        "illuminate/database": "^5.4",
+        "robmorgan/phinx": "^0.8.1",
+        "vlucas/phpdotenv": "^2.4",
+        "doctrine/dbal": "^2.5",
+        "psecio/validation": "^0.5.2",
+        "guzzlehttp/guzzle": "^6.3",
+        "monolog/monolog": "^1.23",
+        "wazaari/monolog-mysql": "^1.0"
+    }
+}
